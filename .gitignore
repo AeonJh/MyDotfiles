@@ -1,4 +1,6 @@
 *
 !.tmux.conf
+!.config
+.config/*
 !.config/nvim
 !.config/zsh
