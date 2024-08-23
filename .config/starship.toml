@@ -39,6 +39,7 @@ symbol = " "
 
 [git_status]
 format = '([$all_status$ahead_behind]($style))'
+ignore_submodules = true
 # conflicted = "[](red)[$count](bold red)"
 # ahead = '[⇡](green)[${count}](bold green)'
 # diverged = '[⇕⇡](yellow)[${ahead_count}](bold yellow)[⇣](yellow)[${behind_count}](bold yellow)'
